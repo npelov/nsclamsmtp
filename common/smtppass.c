@@ -58,6 +58,8 @@
 #include <pwd.h>
 #include <time.h>
 
+#include <netinet/in.h>
+
 #include "usuals.h"
 
 #ifdef LINUX_TRANSPARENT_PROXY
